@@ -1,5 +1,9 @@
 # Liquid Restaking on aptos
 
+
+Project Overview 
+![WhatsApp Image 2025-07-06 at 10 52 02_baa51509](https://github.com/user-attachments/assets/c6f917bd-de36-4a64-bfa6-7e91f5e8ff6f)
+
 ```
 
 ## Owner details: 
