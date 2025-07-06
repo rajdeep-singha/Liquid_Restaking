@@ -1,0 +1,32 @@
+{
+  "name": "aptos-liquid-restaking-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "98.css": "^0.1.21",
+    "antd": "^5.12.8",
+    "aptos": "^1.21.0",
+    "axios": "^1.10.0",
+    "petra-plugin-wallet-adapter": "^0.4.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "styled-components": "^5.3.11"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.1.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  }
+}

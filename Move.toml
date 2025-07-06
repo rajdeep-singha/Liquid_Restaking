@@ -1,0 +1,16 @@
+[package]
+name = "liquidRestaking"
+version = "1.0.0"
+authors = []
+
+[addresses]
+liq_restaking = "89a3d491dc76466ed4900860d0cbf201ce5b3389ef59fa71f324d8cd4fdb32c2"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
