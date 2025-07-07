@@ -1,4 +1,5 @@
 # Aptos Liquid Restaking Frontend
+![Screenshot 2025-07-06 110200](https://github.com/user-attachments/assets/8ab518ec-a638-4d74-8d52-d19be1e82030)
 
 A modern React/Vite frontend for the Aptos Liquid Restaking Protocol. This application provides a user-friendly interface for staking APT tokens, restaking staked tokens, and managing token balances.
 
@@ -11,6 +12,8 @@ A modern React/Vite frontend for the Aptos Liquid Restaking Protocol. This appli
 - 💰 **Token Balances**: Comprehensive view of all token balances and portfolio distribution
 - 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
 - ⚡ **Real-time Updates**: Automatic refresh of data every 10 seconds
+
+![Screenshot 2025-07-06 105923](https://github.com/user-attachments/assets/05a9a40a-c5e5-4aed-a4d5-715cf68383a7)
 
 ## Tech Stack
 
