@@ -7,10 +7,10 @@ import WalletConnect from './components/WalletConnect';
 import { WalletProvider } from './contexts/WalletContext';
 import './index.css';
 import './App.css';
-import MiniCard from './components/MiniCard';
-import { InputNumber, Button, message, Spin, Alert } from 'antd';
-import { getStakingData, getMockStakingData, parseAptAmount, parseTokenAmount, MODULE_NAMES, createTransactionPayload, isStakingProtocolInitialized, getRestakingData, getMockRestakingData } from './utils/aptosClient';
-import { useWallet } from './contexts/WalletContext';
+// import MiniCard from './components/MiniCard';
+// import { InputNumber, Button, message, Spin, Alert } from 'antd';
+// import { getStakingData, getMockStakingData, parseAptAmount, parseTokenAmount, MODULE_NAMES, createTransactionPayload, isStakingProtocolInitialized, getRestakingData, getMockRestakingData } from './utils/aptosClient';
+// import { useWallet } from './contexts/WalletContext';
 
 const menuItems = [
   { key: 'dashboard', label: 'Dashboard', icon: '⇄' },
