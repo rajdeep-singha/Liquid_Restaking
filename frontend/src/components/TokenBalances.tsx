@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-import { Card, Statistic, Row, Col, Spin, Alert, Table, Button } from 'antd';
-import { WalletOutlined, BankOutlined, SwapOutlined, DollarOutlined, CopyOutlined, EyeOutlined } from '@ant-design/icons';
+import { Card, Statistic, Row, Col, Spin} from 'antd';
+import { WalletOutlined, BankOutlined, SwapOutlined, DollarOutlined } from '@ant-design/icons';
 import { getUserData, getMockData } from '../utils/aptosClient';
 import { useWallet } from '../contexts/WalletContext';
 import '../App.css';

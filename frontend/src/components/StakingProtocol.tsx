@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import MiniCard from './MiniCard';
 import { InputNumber, Button, Spin } from 'antd';
-import { getStakingData, getMockStakingData, parseAptAmount, parseTokenAmount, MODULE_NAMES, createTransactionPayload, isStakingProtocolInitialized } from '../utils/aptosClient';
+import { getStakingData, getMockStakingData, parseAptAmount, parseTokenAmount, MODULE_NAMES, createTransactionPayload } from '../utils/aptosClient';
 import { useWallet } from '../contexts/WalletContext';
 import '../App.css';
 
